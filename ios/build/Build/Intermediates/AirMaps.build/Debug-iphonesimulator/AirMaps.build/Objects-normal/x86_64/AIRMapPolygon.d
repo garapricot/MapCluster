@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/node_modules/react-native-maps/ios/AirMaps/AIRMapPolygon.m \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/node_modules/react-native-maps/ios/AirMaps/AIRMapPolygon.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert+MapKit.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/node_modules/react-native-maps/ios/AirMaps/AIRMapCoordinate.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/node_modules/react-native-maps/ios/AirMaps/AIRMap.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/node_modules/react-native-maps/ios/AirMaps/Callout/SMCalloutView.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h

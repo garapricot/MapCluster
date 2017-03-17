@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/gareginhambardzumyan/RNProjects/MapCluster/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
