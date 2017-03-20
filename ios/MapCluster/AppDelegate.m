@@ -26,7 +26,7 @@
                                                       moduleName:@"MapCluster"
                                                initialProperties:nil
                                                    launchOptions:launchOptions];
-  [GMSServices provideAPIKey:@"AIzaSyAiaeYo0GS4nQVEgjMQlEEaNfO9fcqM7pw"];
+  [GMSServices provideAPIKey:@"AIzaSyDMB6uQpfroDuiJid2Qxg8Ig1PwVKgCXe8"];
   rootView.backgroundColor = [[UIColor alloc] initWithRed:1.0f green:1.0f blue:1.0f alpha:1];
 
   self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];

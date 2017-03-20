@@ -25,7 +25,7 @@ export default class MapCluster extends Component {
   constructor(){
     super()
     this.state={
-       latitude: null,
+         latitude: null,
           longitude: null,
           latitudeDelta: null,
           longitudeDelta: null,
@@ -37,6 +37,7 @@ render() {
      
      <View style={styles.container}>
        <MapView
+         provider={PROVIDER_GOOGLE}
          style={styles.map}
          initialRegion={{
            latitude: 37.78825,
@@ -47,7 +48,11 @@ render() {
        >
      <MapView.Marker  coordinate={{latitude:37.78826,longitude:-122.4324}}>
   <View style={styles.circle}>
-     <Text style={styles.pinText}>0</Text>
+         <Text style={styles.pinText}>11</Text>
+   </View></MapView.Marker>
+          <MapView.Marker  coordinate={{latitude:37.78802,longitude:-122.4300}}>
+  <View style={styles.circle}>
+         <Text style={styles.pinText}>13</Text>
    </View></MapView.Marker>
      </MapView>
      </View>
@@ -77,19 +82,18 @@ const styles = StyleSheet.create({
     bottom: 0,
   },
   circle: {
-    paddingTop:2,
     alignItems:'center',
     width: 30,
     height: 30,
-    borderRadius: 15,
+    borderRadius:15,
     backgroundColor: 'red',
 },
 pinText: {
     color: 'white',
     fontWeight: 'bold',
     textAlign: 'center',
-    fontSize: 20,
-    marginBottom: 10,
+    fontSize: 15,
+    marginTop:5
 },
 });
 
